@@ -1,5 +1,8 @@
 {
     "homepage": "https://academicentrepreneur.coach",
+    "homepage1": "https://academicentrepreneur.info",
+    "homepage2": "https://academicentrepreneur.life",
+    "homepage3": "https://academicentrepreneur.net",
     "scripts": {
       "shorten": "netlify-shortener"
     }

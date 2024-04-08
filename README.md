@@ -1,4 +1,9 @@
-## [Quick short link shortner for Eileen Cmapbell-Reed Academic Enterpreneur](https://academicentrepreneur.coach)
+# [Quick short link shortner for Eileen Cmapbell-Reed Academic Enterpreneur](https://academicentrepreneur.coach)
+## Links
+- [academicentrepreneur.coach](https://academicentrepreneur.coach)
+- [academicentrepreneur.info](https://academicentrepreneur.info)
+- [academicentrepreneur.life](https://academicentrepreneur.life)
+- [academicentrepreneur.net](https://academicentrepreneur.net)
 
 ## This solution
 
