@@ -1,0 +1,6 @@
+{
+    "homepage": "https://academicentrepreneur.coach",
+    "scripts": {
+      "shorten": "netlify-shortener"
+    }
+  }
